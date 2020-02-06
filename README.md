@@ -1,11 +1,55 @@
-# Sample Snack app
+# **React-Native-Menu**
+One Paragraph of project description goes here
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+## **Getting Started**
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+## **Prerequisites**
+What things you need to install the software and how to install them
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+## Installing
+A step by step series of examples that tell you how to get a development env running
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+Say what the step will be
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+Give the example
+And repeat
+
+until finished
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+Explain how to run the automated tests for this system
+
+Break down into end to end tests
+Explain what these tests test and why
+
+Give an example
+And coding style tests
+Explain what these tests test and why
+
+Give an example
+Deployment
+Add additional notes about how to deploy this on a live system
+
+Built With
+Dropwizard - The web framework used
+Maven - Dependency Management
+ROME - Used to generate RSS Feeds
+Contributing
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+
+Versioning
+We use SemVer for versioning. For the versions available, see the tags on this repository.
+
+Authors
+Billie Thompson - Initial work - PurpleBooth
+See also the list of contributors who participated in this project.
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
