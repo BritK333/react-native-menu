@@ -1,9 +1,10 @@
 # **React-Native-Menu**
 
 This is a navigation menu built with React Native suitable for both ios and android devices. It's perfect for adding into almost any app that needs one!
-Check the screenshots --> 
-[Android Menu](https://github.com/BritK333/react-native-menu/blob/master/screenshots/app-menu-Android.png)
-[iOS Menu](https://github.com/BritK333/react-native-menu/blob/master/screenshots/app-menu-ios.png)
+Check the screenshots -->
+![Android Menu](screenshots/app-menu-Android.png)
+
+![iOS Menu](https://github.com/BritK333/react-native-menu/blob/master/screenshots/app-menu-ios.png)
 
 ## **Prerequisites**
 
