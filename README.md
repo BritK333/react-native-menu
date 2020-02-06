@@ -1,55 +1,44 @@
 # **React-Native-Menu**
+
 One Paragraph of project description goes here
 
 ## **Getting Started**
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## **Prerequisites**
+
 What things you need to install the software and how to install them
 
-## Installing
-A step by step series of examples that tell you how to get a development env running
+## **Installing**
 
-Say what the step will be
+Using Node.js command prompt or in your terminal, you'll need to install the following dependencies: 
+```
+npm install react-navigation
+npm install react-native-paper
+npm install react-native-screens
+npm install react-native-reanimated
+npm install react-navigation-drawer
+npm install react-native-gesture-handler
+```
 
-Give the example
-And repeat
+**Or**
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+Click on this link [Expo Snack](https://snack.expo.io/@bkel333/react-native-menu)
 
-## Running the tests
-Explain how to run the automated tests for this system
+## **Built With**
 
-Break down into end to end tests
-Explain what these tests test and why
+React Native - The web framework used
+Node JS - Dependency Management
 
-Give an example
-And coding style tests
-Explain what these tests test and why
+## **Authors**
 
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
+Brittany Kelley  
 
-Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
-Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+## **License**
 
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+Not Currently Licensed
 
-Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
+## **Acknowledgments**
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+Design Into Code - Youtuber
