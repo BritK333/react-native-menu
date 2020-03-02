@@ -26,7 +26,7 @@ const DrawerNavigator = createDrawerNavigator({
     }
   },
 
-  //begin slide in drawer navigation video @ 10:20
+  
    
   MessageScreen: {
     screen: MessageScreen,
