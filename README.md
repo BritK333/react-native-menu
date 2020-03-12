@@ -30,11 +30,3 @@ Node JS - Dependency Management
 ## **Authors**
 
 Brittany Kelley
-
-## **License**
-
-Not Currently Licensed
-
-## **Acknowledgments**
-
-Design Into Code - Youtuber
